@@ -1,4 +1,4 @@
-# Gesture-Controlled Computer Application
+# Gesture-Controlled Computer Application -- BETA VERSION
 
 Это приложение позволяет управлять компьютером с помощью жестов. Оно использует камеру для распознавания жестов руки и выполняет действия в зависимости от распознанных жестов.
 
